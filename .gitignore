@@ -1,0 +1,7 @@
+# Agents are populated from submodule during initialization
+.claude/agents/*.md
+
+# Tessl files (created by tessl init)
+.mcp.json
+tessl.json
+.tessl/
